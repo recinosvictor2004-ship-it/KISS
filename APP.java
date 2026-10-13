@@ -46,7 +46,7 @@ class SimplePricingService {
 }
 
 // Punto de entrada del programa
-public class App {
+public class APP {
     public static void main(String[] args) {
         List<OrderItem> items = List.of(
                 new OrderItem("Laptop Stand", 1, 35.0),
